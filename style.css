@@ -1,0 +1,25 @@
+footer{
+    text-align: center;
+    font-family:Georgia;
+}
+
+.Container{
+    font-family:Verdana;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: #FFCCAA;
+}
+
+.JustifiedText{
+    text-align: justify;
+}
+
+.RightText{
+    text-align: right;
+}
+
+.BackGround{
+    min-width: 480px;
+    min-height: 480px;
+    background-color: azure;
+}
